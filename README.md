@@ -1,4 +1,4 @@
-Mini webserver on gooland
+Mini web server on golang
 
 for run 
   docker build -t erik/go-test:latest .
